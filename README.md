@@ -1,5 +1,5 @@
 ## PassGen Python Password Generator Tool:
-=========================================================================================
+========================================================================================
 
 
  Generate strong & random passwords:
@@ -8,7 +8,7 @@ So if you want to safeguard your personal info and assets, creating secure passw
 Impossible-to-crack passwords are complex with multiple types of characters (numbers, letters, and symbols). Making your passwords different for each website or app also helps defend against hacking. 
 
 
-=========================================================================================
+========================================================================================
 
 ## Usage Instructions :- 
 
